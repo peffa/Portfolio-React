@@ -29,7 +29,7 @@ const portfolioData = {
 			"title": "Eat da Burger",
 			"imageUrl": "images/portfolio/burgerJPG.jpg",
 			"link": "https://eat-da-burger-pef.herokuapp.com/",
-			"codeLink": "",
+			"codeLink": "https://github.com/peffa/Eat-da-Burger",
 			"description": "Burger eating application",
 			"technology": ["Node.js, Express, Handlebars, and MySQL."],
 		},
